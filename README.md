@@ -1,6 +1,8 @@
 # Selamat Datang
 ```
 Muh Ikhsan H
+Universitas Usahid Surakarta
+Teknik Informatika
 ```
 
 <!--
