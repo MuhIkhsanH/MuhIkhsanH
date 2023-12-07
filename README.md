@@ -5,7 +5,7 @@ Universitas Usahid Surakarta
 Teknik Informatika
 ```
 github saya yang sudah lama
-[Contoh Tautan Google](https://github.com/NiaNyaa/)
+[Github](https://github.com/NiaNyaa/)
 
 
 <!--
