@@ -4,7 +4,9 @@ Muh Ikhsan H
 Universitas Usahid Surakarta
 Teknik Informatika
 ```
-Saya menyimpan projek program sederhana aya disini
+github saya yang sudah lama
+[Contoh Tautan Google](https://github.com/NiaNyaa/)
+
 
 <!--
 **MuhIkhsanH/MuhIkhsanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
