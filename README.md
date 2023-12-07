@@ -4,6 +4,7 @@ Muh Ikhsan H
 Universitas Usahid Surakarta
 Teknik Informatika
 ```
+Saya menyimpan projek program sederhana aya disini
 
 <!--
 **MuhIkhsanH/MuhIkhsanH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
