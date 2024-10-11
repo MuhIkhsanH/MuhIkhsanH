@@ -1,8 +1,8 @@
 # Selamat Datang
 ```
 Muh Ikhsan H
-Universitas Usahid
-Teknik Informatika
+Jurusan Teknik Informatika
+From Indonesia!
 ```
 github saya yang sudah lama
 (https://github.com/NiaNyaa/)
