@@ -1,7 +1,7 @@
 # Selamat Datang
 ```
 Muh Ikhsan H
-Universitas Usahid Surakarta
+Universitas Usahid
 Teknik Informatika
 ```
 github saya yang sudah lama
