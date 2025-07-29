@@ -9,7 +9,6 @@ github saya yang sudah lama
 
 
 📊 **Bahasa Pemograman Yang Digunakan**
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhikhsanh&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhikhsanh&layout=compact&theme=radical&cache_seconds=1)
 
 ---
